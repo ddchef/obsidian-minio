@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-minio-plugin",
+	"name": "Obsidian Minio Plugin",
+	"version": "0.0.2",
+	"minAppVersion": "0.15.0",
+	"description": "minio 上传图片插件",
+	"author": "Ddchef",
+	"authorUrl": "https://github.com/ddchef",
+	"fundingUrl": "https://github.com/ddchef/obsidian-minio",
+	"isDesktopOnly": false
+}
